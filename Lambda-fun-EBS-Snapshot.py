@@ -1,6 +1,6 @@
 import boto3
 import datetime
-import pytz
+
 
 ec2 = boto3.resource('ec2')
 
